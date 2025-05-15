@@ -7,6 +7,8 @@ To install additional Python packages used in this program, open a command promp
 ```
 pip install tkinter pillow pymysql
 ```
+
+It will install in any version of Python. Doesn't require any sepcific version old/new.
 ## Screenshots
 The following screenshots demonstrate the various functionalities of the music library management system:
 
