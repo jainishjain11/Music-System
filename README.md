@@ -30,7 +30,7 @@ The following screenshots demonstrate the various functionalities of the music l
 
 5. View All Song Record
 
-![viewall](https://user-images.githubusercontent.com/60599324/117186470-7ae11c80-adf8-11eb-9524-ad6332c28160.jpg)
+Your database will be displyed what you have in your MySQL
 
 6. View Playlists
  
