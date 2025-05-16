@@ -7,8 +7,8 @@ from add import *
 from delete import *
 from view import *
 
-mypass = "Yogesh@srm1"
-mydatabase="music_app"
+mypass = " " #update your database passsword
+mydatabase=" " #update with your database name
 
 con = pymysql.connect(host="localhost",user="root",password=mypass,database=mydatabase)
 cur = con.cursor()
