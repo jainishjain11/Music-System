@@ -38,8 +38,8 @@ def addsong():
     root.minsize(width=400,height=400)
     root.geometry("800x600")
 
-    mypass = "Yogesh@srm1"
-    mydatabase="music_app"
+    mypass = " " #update your database passsword
+    mydatabase=" " #update with your database name
 
     con = pymysql.connect(host="localhost",user="root",password=mypass,database=mydatabase)
     cur = con.cursor()
