@@ -5,8 +5,8 @@ import tkinter as tk
 from tkinter import ttk
 import pymysql
 
-mypass = "Yogesh@srm1"
-mydatabase="music_app"
+mypass = " " #update your database passsword
+mydatabase=" " #update with your database name
 
 con = pymysql.connect(host="localhost",user="root",password=mypass,database=mydatabase)
 cur = con.cursor()
